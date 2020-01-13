@@ -1,0 +1,40 @@
+@import url("https://fonts.googleapis.com/css?family=Titillium+Web:300,400,600,600i,700&display=swap");
+* {
+    font-family: 'Titillium Web', sans-serif;
+}
+
+#movieSearch {
+    font-weight: 700;
+    background-color: #273a71;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    display: block;
+    text-align: center;
+}
+
+#movieSearch h2 {
+    color: #cce5ff;
+}
+
+#movieSearch p {
+    color: #ffffff;
+}
+
+#results {
+    font-weight: 400;
+    background-color: #273a71;
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+#results h4 {
+    color: #cce5ff;
+}
+
+#results tr {
+    color: #ffffff;
+}
+
+#search {
+    background-color: #30bae7;
+}
